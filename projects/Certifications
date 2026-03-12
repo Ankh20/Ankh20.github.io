@@ -1,65 +1,90 @@
-<section id="three">
-  <div class="container">
-    <h3>Certifications</h3>
-    <p>
-      Professional certifications and micro-credentials earned through academic
-      and global career programs.
-    </p>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Certifications - Anosha Khairi</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+</head>
+<body class="is-preload">
 
-    <div class="features">
+    <div id="wrapper">
+        <div id="main">
+            <section id="three">
+                <div class="container">
+                    <h3>Certifications</h3>
+                    <p>
+                        Professional certifications and micro-credentials earned through academic
+                        and global career programs.
+                    </p>
 
-      <article>
-        <span class="image">
-          <img src="images/AIProfessional.png" alt="AI Professional Skills Certification" />
-        </span>
-        <div class="inner">
-          <h4>AI Professional Skills</h4>
-          <p>
-            Applied artificial intelligence concepts to real-world projects
-            through the Global Career Accelerator in collaboration with OpenAI.
-          </p>
+                    <div class="features">
+
+                        <article>
+                            <span class="image">
+                                <img src="../images/AIProfessional.png" alt="AI Professional Skills Certification" />
+                            </span>
+                            <div class="inner">
+                                <h4>AI Professional Skills</h4>
+                                <p>
+                                    Applied artificial intelligence concepts to real-world projects
+                                    through the Global Career Accelerator in collaboration with OpenAI.
+                                </p>
+                            </div>
+                        </article>
+
+                        <article>
+                            <span class="image">
+                                <img src="../images/InterculturalSkills.png" alt="Intercultural Skills Certification" />
+                            </span>
+                            <div class="inner">
+                                <h4>Intercultural Skills</h4>
+                                <p>
+                                    Collaborated with a diverse, global team while developing
+                                    cross-cultural communication and teamwork skills through UNESCO-aligned programs.
+                                </p>
+                            </div>
+                        </article>
+
+                        <article>
+                            <span class="image">
+                                <img src="../images/python&Data.png" alt="Python and Data Analysis Certification" />
+                            </span>
+                            <div class="inner">
+                                <h4>Python &amp; Data Analysis</h4>
+                                <p>
+                                    Used Python to analyze datasets, generate insights, and create
+                                    data visualizations as part of a structured professional program.
+                                </p>
+                            </div>
+                        </article>
+
+                        <article>
+                            <span class="image">
+                                <img src="../images/unmanned-aerial-systems-prototyping.png" alt="Unmanned Aerial Systems Prototyping Certification" />
+                            </span>
+                            <div class="inner">
+                                <h4>Unmanned Aerial Systems Prototyping</h4>
+                                <p>
+                                    Hands-on experience designing and prototyping unmanned aerial systems
+                                    through George Mason University’s engineering and innovation programs.
+                                </p>
+                            </div>
+                        </article>
+
+                    </div>
+                </div>
+            </section>
         </div>
-      </article>
-
-      <article>
-        <span class="image">
-          <img src="images/InterculturalSkills.png" alt="Intercultural Skills Certification" />
-        </span>
-        <div class="inner">
-          <h4>Intercultural Skills</h4>
-          <p>
-            Collaborated with a diverse, global team while developing
-            cross-cultural communication and teamwork skills through UNESCO-aligned programs.
-          </p>
-        </div>
-      </article>
-
-      <article>
-        <span class="image">
-          <img src="images/python&Data.png" alt="Python and Data Analysis Certification" />
-        </span>
-        <div class="inner">
-          <h4>Python & Data Analysis</h4>
-          <p>
-            Used Python to analyze datasets, generate insights, and create
-            data visualizations as part of a structured professional program.
-          </p>
-        </div>
-      </article>
-
-      <article>
-        <span class="image">
-          <img src="images/unmanned-aerial-systems-prototyping.png" alt="Unmanned Aerial Systems Prototyping Certification" />
-        </span>
-        <div class="inner">
-          <h4>Unmanned Aerial Systems Prototyping</h4>
-          <p>
-            Hands-on experience designing and prototyping unmanned aerial systems
-            through George Mason University’s engineering and innovation programs.
-          </p>
-        </div>
-      </article>
-
     </div>
-  </div>
-</section>
+
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.scrollex.min.js"></script>
+    <script src="../assets/js/jquery.scrolly.min.js"></script>
+    <script src="../assets/js/browser.min.js"></script>
+    <script src="../assets/js/breakpoints.min.js"></script>
+    <script src="../assets/js/util.js"></script>
+    <script src="../assets/js/main.js"></script>
+
+</body>
+</html>
